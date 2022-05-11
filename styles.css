@@ -116,8 +116,17 @@ section:nth-child(2){
     margin: 20px 0;
     width: 100%;
     height: 100vh;
+    position: relative;
+}
+section:nth-child(2)>h2{
+    position: absolute;
+    top:-50px;
+    color: white;
+    font-size: 40px;
+    font-family:Courier;
 }
 .Product_list{
+    
     width: 90%;
     height: auto;
     display: grid;
