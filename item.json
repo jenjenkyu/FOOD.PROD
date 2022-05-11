@@ -1,0 +1,53 @@
+[
+    {
+        "_itemNAME":"BURGER",
+        "src":"image/burger.png",
+        "desk":"Made from freshly ground, high-grade beef",
+        "_itemID":"xx8999xxx8"
+    },
+    {
+        "_itemNAME":"CAKE",
+        "src":"image/cake.png",
+        "desk":"A form of sweet food made from flour, sugar, and other ingredients, that is usually baked.",
+        "_itemID":"0xx8999xxx8"
+    },
+    {
+        "_itemNAME":"ROAST CHICKEN",
+        "src":"image/chicken.png",
+        "desk":"Chicken prepared as food by roasting whether in a home kitchen or over a fire",
+        "_itemID":"xx999xxx8"
+    },
+    {
+        "_itemNAME":"PIZZA",
+        "src":"image/pizza.png",
+        "desk":"A dish of Italian origin consisting of a usually round,",
+        "_itemID":"0x99xxx8"
+    },
+    {
+        "_itemNAME":"ONIGIRI",
+        "src":"image/onigiri.png",
+        "desk":"Japanese food made from white rice formed into triangular or cylindrical shapes and often wrapped in nori.",
+        "_itemID":"0xx89xx8"
+    },
+    {
+        "_itemNAME":"BREAD",
+        "src":"image/bread.png",
+        "desk":"Bread is a staple food prepared from a dough of flour and water, usually by baking.",
+        "_itemID":"0xx999xx"
+    },
+    {
+        "_itemNAME":"HOT DOG",
+        "src":"image/hot-dog.png",
+        "desk":"A food consisting of a grilled or steamed sausage served in the slit of a partially sliced bun.",
+        "_itemID":"0x899xx8"
+    },
+    {
+        "_itemNAME":"BREAKFAST",
+        "src":"image/breakfast.png",
+        "desk":"The first meal of the day eaten after waking from the night's sleep, in the morning.",
+        "_itemID":"0x99xx8"
+    }
+    
+    
+    
+]
